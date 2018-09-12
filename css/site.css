@@ -13,14 +13,14 @@ h2,
 
 h1 {
     text-transform: uppercase;
-    font-size: 3em;
 }
 
 .titulo-principal {
+    font-size: 60px;
     text-align: center;
     background-color: #851944;
     color: #FFF;
-    padding: 2rem;
+    padding: 25px;
     border-bottom: .5rem solid #000;
 }
 
@@ -107,9 +107,9 @@ em {
 }
 
 main {
-    width: 80%;
+    width: 86%;
     float: left;
-    padding-bottom: 4em;
+    padding-bottom: 80px;
 }
 
 .minha-foto,
@@ -120,7 +120,7 @@ main {
 }
 
 .navegacao-site {
-    width: 20%;
+    width: 14%;
     float: right;
     position: relative;
     top: 300px;
